@@ -1,0 +1,12 @@
+{
+  "lambda": {
+    "role": "giuseppe-claudiajs-test-executor",
+    "name": "giuseppe-claudiajs-test",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "i2fekox375",
+    "module": "web",
+    "url": "https://i2fekox375.execute-api.eu-west-1.amazonaws.com/beta"	
+  }
+}

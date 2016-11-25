@@ -1,0 +1,11 @@
+Per farlo funzionare bisogna inserire un file in ~/.aws/credentials con il profilo claudi
+impostare una variabile d'ambiente AWS_PROFILE=claudia
+e dare i permessi su amazon 
+AWSLAMBAFullAccess
+IAMFullAccess
+AmazonApiGatewayAdministrator
+
+Facendo npm start si deploya tutto
+
+si troveranno le funzioni nel lambda service
+e le api nel servizio delle api di aws
